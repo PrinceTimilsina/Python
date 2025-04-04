@@ -15,3 +15,13 @@ b +=3  # Increment the value od b by 3 and the assign it to b
 print(b)
 
 # Comparison Operator
+
+d = 5!=5
+f = 4==4
+print(d)  # Shows False
+print(f)  # Shows True
+
+#Logical Operators
+
+e = True or False
+print(e)
