@@ -7,7 +7,7 @@ c = a+b
 
 print (c)
 
-#Assignment OPerator
+#Assignment Operator
 a = 4-2 #Assign 4-2 in a
 b = 6
 # b-= 6 
