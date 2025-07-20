@@ -1,0 +1,3 @@
+transformers
+langchain
+langchain-huggingface
