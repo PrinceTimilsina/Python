@@ -20,5 +20,5 @@ elif random_number==8:
   print('Outlook not so good.')
 else:
   print('Very doubtful.')
-
+  
 
